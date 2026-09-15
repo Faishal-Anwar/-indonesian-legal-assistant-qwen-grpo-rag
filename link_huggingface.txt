@@ -1,0 +1,2 @@
+SFT Model: https://huggingface.co/Faishal-Anwar/qwen2.5-1.5b-pgabl-legal-sft-faishal
+GRPO Model: https://huggingface.co/Faishal-Anwar/qwen2.5-1.5b-pgabl-legal-grpo-faishal
